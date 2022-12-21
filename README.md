@@ -5,9 +5,9 @@
 ### I Work On
 <code><img height="40" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/08/Android-Logo.png"></code>
+<code><img height="40" src="https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"></code>
 ```
 - FLUTTER ~ High Priority
 - ANDROID
@@ -16,8 +16,8 @@
 - PHP
 ```
 ### I know Database
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://lintel-blogs-static-files.s3.amazonaws.com/wp-content/uploads/2021/06/01092052/MySQL-Logo.wine_.png"></code>
+<code><img height="40" src="https://i.ytimg.com/vi/fgT6r4f9Apc/maxresdefault.jpg"></code>
 ```
 - MySQL
 - Firebase
