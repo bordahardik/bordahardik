@@ -15,12 +15,7 @@ Hi There, I am an experienced Flutter developer with 4 years of experience. I kn
     <a href="#"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/android-%2320232a.svg?logo=android&logoColor=%a4c639"></a>
-    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
-    <a href="#"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 </p>
 
 ## Operating Systems
@@ -53,7 +48,7 @@ Hi There, I am an experienced Flutter developer with 4 years of experience. I kn
 </p>
 
 ## Github Stats
-
+		
 <img src="https://github-readme-stats.vercel.app/api?username=bordahardik&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=bordahardik&theme=github_dark"/>
 |---|---|
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordahardik&layout=compact&theme=github_dark"/>|
@@ -62,6 +57,6 @@ Hi There, I am an experienced Flutter developer with 4 years of experience. I kn
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madviseinfotech&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bordahardik&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
