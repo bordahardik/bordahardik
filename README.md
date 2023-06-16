@@ -47,7 +47,7 @@ Hi There, I am an experienced Flutter developer with 4 years of experience. I kn
 <p>
   <a href="https://in.linkedin.com/company/madvise-infotech2021"><img alt="Linkedin" title="Hardik Borda Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/bordahardik"><img alt="Github" title="Hardik Borda Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
-  <a href="https://www.facebook.com/HardikBora/"><img alt="Facebook" title="Hardik Borda FB" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+  <a href="https://www.facebook.com/hardik.borda/"><img alt="Facebook" title="Hardik Borda FB" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/_hardik_borda/"><img alt="Instagram" title="Hardik Borda Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
   <a href="mailto:bordahardik24@gmail.com"><img alt="Gmail" title="Hardik Borda Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
 </p>
