@@ -39,5 +39,6 @@
 <a href="https://www.instagram.com/im_hardik2111/"><img src="http://img.shields.io/badge/Instagram-im__hardik2111-red?style=for-the-badge&logo=Instagram"></a>
 
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordahardik&theme=dark&hide_langs_below=1&layout=compact" /><img height="190" src="https://github-readme-stats.vercel.app/api?username=hardik2197&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordahardik&theme=dark&hide_langs_below=1&layout=compact" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=bordahardik&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
