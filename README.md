@@ -65,6 +65,3 @@ Hi There, I am an experienced Flutter developer with 4 years of experience. I kn
 [![](https://visitcount.itsvg.in/api?id=bordahardik&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordahardik&theme=dark&hide_langs_below=1&layout=compact" />
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=bordahardik&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
