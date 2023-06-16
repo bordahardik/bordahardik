@@ -45,7 +45,7 @@ Hi There, I am an experienced Flutter developer with 4 years of experience. I kn
 
 ## Connect with Me
 <p>
-  <a href="https://in.linkedin.com/company/madvise-infotech2021"><img alt="Linkedin" title="Hardik Borda Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hardik-borda-72369b110/"><img alt="Linkedin" title="Hardik Borda Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/bordahardik"><img alt="Github" title="Hardik Borda Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
   <a href="https://www.facebook.com/hardik.borda/"><img alt="Facebook" title="Hardik Borda FB" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/_hardik_borda/"><img alt="Instagram" title="Hardik Borda Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
